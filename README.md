@@ -105,6 +105,6 @@ Developed an interactive Power BI dashboard to visualize booking trends, revenue
 ### Dashboard Preview
 
 <p align="center">
-  <img src="dashboard/Dashboard_preview.png" alt="Dashboard Preview" width="900">
+  <img src="Dashboard/Dashboard_preview.png" alt="Dashboard Preview" width="900">
 </p>
 
